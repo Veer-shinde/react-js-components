@@ -1,6 +1,5 @@
 import Gallery from "./Gallery";
 import Profile from "./Profile";
-
 function App() {
   return (
     <>
